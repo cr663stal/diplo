@@ -1,0 +1,39 @@
+.offer-btn:hover
+{
+    background-color: #0b2555;
+}
+.navbar-btn:hover 
+{
+    background-color: #0b2555;
+}
+.navbar-text a:hover
+{
+    color: #133D8D;
+}
+.form-btn:hover 
+{
+    background-color: #0b2555;
+}
+.service-item:hover img
+{
+    transition: 1s;
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+
+.service-item-text:hover
+{
+    background-color: #0b2555;
+}
+.footer-menu a:hover 
+{
+    color: #cccccc;
+}
+.footer-data a:hover
+{
+    color: #cccccc;
+}
+.footer-social a img:hover
+{
+    color: #cccccc;
+}
